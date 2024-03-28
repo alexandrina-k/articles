@@ -1,0 +1,9 @@
+{ "title" : "How to Peel a Million: Validating and Expanding Bitcoin Clusters",
+  "tags" : ["bitcoin", "anonymity", "benchmarks", "clustering", "heuristics", "peel chain" ],
+  "text" : "https://smeiklej.com/files/usenix22.pdf",
+  "url" : "howToPeel",
+  "data" : {
+    "summary" : "TODO",
+    "notes" : "TODO"
+  }
+}

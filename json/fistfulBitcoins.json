@@ -1,0 +1,9 @@
+{ "title" : "A Fistful of Bitcoins: Characterizing Payments Among Men with No Names",
+  "tags" : ["bitcoin", "anonymity", "graph", "benchmarks", "clustering", "heuristics" ],
+  "text" : "https://cseweb.ucsd.edu/~savage/papers/IMC13.pdf",
+  "url" : "fistfulBitcoins",
+  "data" : {
+    "summary" : "TODO",
+    "notes" : "TODO"
+  }
+}
